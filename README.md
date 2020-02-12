@@ -11,7 +11,7 @@
 
 3. Use accessibility testing tools.<br/>
 Modern browsers like Google Chrome and Mozilla Firefox provide audit tool to perform rating automatically, it is very convenient to rate an existing webpage with these tools.  
-Service like aXe, Google ADT, PayPal AATT can also provide accessibility check on a more professional check.
+Service like aXe, Google ADT, PayPal AATT can also provide accessibility check on a more professional level.
 
 4. User testings.<br/>
 Test with real people who have accessibility issues. 
