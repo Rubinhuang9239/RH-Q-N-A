@@ -20,7 +20,7 @@ Test with real people who have accessibility issues. 
 ## II. How do you test to ensure your development work matches the design you are provided?
  
 1. Prevent mismatch.<br/>
-Provide UX/UID guidelines and build reusable UI components: build once, verify once, prevent to reinvent the wheel, keep change-logs.
+Provide UX/UI guidelines and build reusable UI components: build once, verify once, prevent to reinvent the wheel, keep change-logs.
 
 2. Use appropriate UI design sharing tools.<br/>
 Effective communication between designers and developers plays a key part to build accurate production UI.
@@ -32,7 +32,7 @@ The best way to test design is to sit down with the designer who designed the sc
  
 ## III. What are some best practices for ensuring cross-browser compatibility?
  
-CrossBrowserTesting: a very effective way to test responsive implementation, desktop/mobile.
+CrossBrowserTesting: a very effective way to test responsive implementation, on both desktop/mobile.
  
  
 ## IV. In your career to-date what are you most proud of?
