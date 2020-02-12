@@ -1,4 +1,4 @@
-# RH-Q-N-A
+# RH Open-ended Q&A
 
 ## I. What are some best practices for ensuring proper accessibility support?
  
